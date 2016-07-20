@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-[visita en Faccebook] (www.as.com)
+[visita en Faccebook] (http://www.as.com)
